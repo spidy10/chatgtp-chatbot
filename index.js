@@ -13,7 +13,6 @@ const configuration = new Configuration({
 
 const openai = new OpenAIApi(configuration);
 
-// ChatGPT route
 app.post('/chat', async (req, res) => {
     const { message } = req.body;
     try {
