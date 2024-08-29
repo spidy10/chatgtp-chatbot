@@ -1,5 +1,5 @@
-# chatgtp-chatbot
-This project is implemented chatgtp chatbot using node js and jquery
+# chatgpt-chatbot
+This project is implemented chatgpt chatbot using node js and jquery
 
 # Install dependancy
 npm install 
